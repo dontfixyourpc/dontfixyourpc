@@ -17,4 +17,7 @@
 
 ⚡ Fun facts:
   - half russian and german (so you can talk to me on german, english and russian)
+  
+ Links: 
+  - to my CodePen Account: https://codepen.io/lxcalghxst
 
