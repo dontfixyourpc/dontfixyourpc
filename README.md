@@ -17,5 +17,7 @@
   - half russian and german (so you can talk to me on german, english and russian)
   
  Links: 
-  - to my CodePen Account: https://codepen.io/lxcalghxst
+  - to my CodePen: https://codepen.io/lxcalghxst
+  - to my Tealfeed: https://tealfeed.com/localghost
+  - to my DEV.to: https://dev.to/dontfixyourpc
 
