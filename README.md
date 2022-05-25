@@ -20,3 +20,7 @@
   - to my Tealfeed: https://tealfeed.com/localghost
   - to my DEV.to: https://dev.to/dontfixyourpc
 
+ Projects:
+  - https://svh-koenigsbronn-ringen.de/
+  - https://partyservice-rein.com/
+
