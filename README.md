@@ -1,26 +1,15 @@
-## Hello World ! 👋
+## Hello there,
 
----
-🌱 I’m currently learning ...
-  - ...
+my name is Richard. I am a Linux enthusiast and interested in Python programming. Furthermore I am also into doing tutorials or documentations for all
+of stuff related to IT or computers.
   
  :vhs: My Tools:
   - VS Code, WSL, Vim ...
-  - Python, Java
-  - Basic Webdevelopment
- 
-🤔 I’m looking for help with ...
-  - getting a project
-
-⚡ Fun facts:
-  - half russian and german (so you can talk to me on german, english and russian)
+  - Python 
+  - Java, Groovy
+  - Linux (Arch Linux)
   
+---
  Links: 
-  - to my CodePen: https://codepen.io/lxcalghxst
   - to my Tealfeed: https://tealfeed.com/localghost
   - to my DEV.to: https://dev.to/dontfixyourpc
-
- Projects:
-  - https://svh-koenigsbronn-ringen.de/
-  - https://partyservice-rein.com/
-
