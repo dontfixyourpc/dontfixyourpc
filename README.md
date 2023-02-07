@@ -7,7 +7,7 @@ of stuff related to IT or computers.
   - VS Code, WSL, Vim ...
   - Python 
   - Java, Groovy
-  - Linux (Arch Linux)
+  - Linux (Debian GNU/Linux 11 bullseye)
   
 ---
  Links: 
